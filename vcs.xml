@@ -8,6 +8,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\OSPanel\domains" />
+    <option name="cloneParentDir" value="$USER_HOME$/sites" />
   </component>
 </application>
