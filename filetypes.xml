@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="tpl" type="PHP" />
+      <removed_mapping ext="tpl" approved="true" type="Smarty" />
+    </extensionMap>
+  </component>
+</application>
