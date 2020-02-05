@@ -4,6 +4,9 @@
       <webServer id="9a041d18-c6d1-45ca-95c3-6a40dabcf0e4" name="school.loc" url="http://school.loc">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="34727a90-fd59-4dcc-afac-08190f476404" name="shop.local" url="http://shop.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
