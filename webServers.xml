@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f50a4e78-41e5-4f7f-a985-5af1b237242c" name="sym.test.ru" url="http://sym.test.ru/">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/sites/sym.test.ru/public" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
