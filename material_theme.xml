@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="accentMode" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="tabsHeight" value="38" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
