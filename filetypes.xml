@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
+      <mapping ext="ini-production" type="PLAIN_TEXT" />
+      <mapping ext="ini-development" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
