@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Project 'task.footbal.io'" />
+    <option name="defaultScopeName" value="Project 'task.footbal.io'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'task.footbal.io'" />
   </component>
 </application>
