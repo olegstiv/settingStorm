@@ -4,6 +4,9 @@
       <webServer id="f50a4e78-41e5-4f7f-a985-5af1b237242c" name="sym.test.ru" url="http://sym.test.ru/">
         <fileTransfer port="0" mountedRoot="$USER_HOME$/sites/sym.test.ru/public" accessType="MOUNT" />
       </webServer>
+      <webServer id="b3388cae-3bbe-402d-b780-aa4cc8819b06" name="store.ru.local" url="http://store.ru.local">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/sites/store.ru/public" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
