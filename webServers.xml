@@ -5,7 +5,9 @@
         <fileTransfer port="0" mountedRoot="$USER_HOME$/sites/sym.test.ru/public" accessType="MOUNT" />
       </webServer>
       <webServer id="b3388cae-3bbe-402d-b780-aa4cc8819b06" name="store.ru.local" url="http://store.ru.local">
-        <fileTransfer port="0" mountedRoot="$USER_HOME$/sites/store.ru/public" accessType="MOUNT" />
+        <fileTransfer host="37.140.192.186" port="21" rootFolder="/www/ooo-aquastroy.ru">
+          <option name="port" value="21" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
