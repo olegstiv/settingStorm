@@ -4,6 +4,7 @@
       <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping ext="ini-production" type="PLAIN_TEXT" />
       <mapping ext="ini-development" type="PLAIN_TEXT" />
+      <mapping ext="twig1" type="Twig" />
     </extensionMap>
   </component>
 </application>
