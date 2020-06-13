@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="PHP/Replace quotes" />
   </component>
 </application>
